@@ -10,11 +10,11 @@ body{
     font-family: Arial, sans-serif;
     background-color: hsl(0, 0%, 15%);
     border-radius: 15px;
-    max-width: 500px;
+    max-width: 400px;
     overflow: hidden;
 }
 #display{
-    width: 500px;
+    width: 400px;
     padding: 10px;
     font-size: 3rem;
     text-align: left;
@@ -23,7 +23,7 @@ body{
     color: white;
 }
 #display1{
-    width: 500px;
+    width: 400px;
     padding: 10px;
     font-size: 5rem;
     text-align: left;
